@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello commit
+echo hello commit trigger
